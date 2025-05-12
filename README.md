@@ -4,3 +4,4 @@ Codebase for solving high-dimensional PDEs in financial mathematics using deep l
 
 Overview of the project:
 
+![Picture1](dnndes.PNG)
